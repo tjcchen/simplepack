@@ -1,0 +1,5 @@
+{
+  "presets": [
+    "@babel/preset-env" // preset-env会将ES2015-ES2020所有的代码转换为ES5代码
+  ]
+}
