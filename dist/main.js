@@ -22,5 +22,5 @@ Object.defineProperty(exports, "__esModule", {
 exports.greeting = greeting;
 
 function greeting(name) {
-  return 'hello ' + name;
+  return 'Hello ' + name;
 } }, })
